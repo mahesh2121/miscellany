@@ -7,7 +7,7 @@
 ##########################################################
 set -e
 
-organization=${TF_ORGANIZATION:="pablosspot"}
+organization=${TF_ORGANIZATION:="Maheshcloudx"}
 terraformapiurl=${TF_API_URL:="https://app.terraform.io/api/v2"}
 terraformversion=${TF_VERSION:=1.0.0}
 AGENT_HOMEDIRECTORY=${AGENT_HOMEDIRECTORY:="$HOME"}
